@@ -119,3 +119,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Node modules and workspace tools
+node_modules/
+.vscode/
+logs/
+
