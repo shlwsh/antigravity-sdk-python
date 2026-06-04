@@ -5,8 +5,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "mygit": "bun run scripts/git-auto-commit.ts"
+    "mygit": "bash scripts/mygit-bun.sh",
+    "mygit:check-ai": "bash scripts/mygit-bun.sh scripts/check-llm-connectivity.ts"
   },
+
   "devDependencies": {
     "@langchain/core": "^1.1.40",
     "@langchain/openai": "^1.4.4",
