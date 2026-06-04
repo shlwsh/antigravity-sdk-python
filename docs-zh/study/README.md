@@ -59,6 +59,11 @@
    - Google 账号与团队共用凭证说明（AI Studio / Vertex）
    - `hello_world.py` 验证步骤、功能对照表与常见问题
 
+10. **[10_示例手册](./10_示例手册.md)**
+   - `examples/getting_started`（18）、`deep_dives`（8）、`resources` 全量说明
+   - 各用例构成、核心 API、运行命令、前置依赖与验收标准
+   - 学习顺序、能力索引、交互/风险速查与章节对照
+
 ---
 
 ## 📂 代码库核心结构对照
