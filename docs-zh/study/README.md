@@ -49,6 +49,11 @@
    - 子 Agent 机制（Subagents）及其 Hook 传递规则
    - 交互式 CLI 运行循环
 
+8. **[08_权限机制与LLM调用](./08_权限机制与LLM调用.md)**
+   - 能力配置（CapabilitiesConfig）与策略（Policies）双层权限模型
+   - 默认策略、工作区限制、启动期安全校验与运行时拦截路径
+   - Gemini 配置下发、Local Harness 调用链与 `chat()` 端到端流程
+
 ---
 
 ## 📂 代码库核心结构对照
